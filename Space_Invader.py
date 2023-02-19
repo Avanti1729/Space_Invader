@@ -1,6 +1,7 @@
 import pygame
 import random
 import math
+#todo ; add command line parameters to change the speed
 
 pygame.init()
 # setting screen size
